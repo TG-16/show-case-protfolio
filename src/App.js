@@ -140,6 +140,7 @@ export default function Portfolio() {
           <a href="https://www.linkedin.com/in/tewodros-gebeyaw-790030345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noreferrer">🔗 LinkedIn</a>
           <a href="https://github.com/TG-16" target="_blank" rel="noreferrer">💻 GitHub</a>
           <a href="mailto:tewodrosgebeyaw00@gmail.com">✉️ Email</a>
+          <a href="#">+2519 5322 4474</a>
         </div>
       </section>
 
