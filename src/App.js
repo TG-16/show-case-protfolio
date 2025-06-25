@@ -10,7 +10,7 @@ export default function Portfolio() {
     <div className="container dark-theme">
       <header className="header fade-in">
         <h1 className="title">Hi, I'm Teddy</h1>
-        <p className="subtitle">Software Engineer • Web Developer • Fitness Enthusiast</p>
+        <p className="subtitle">Software Engineer • Full stack Web Developer • Fitness Enthusiast</p>
         <a href="#projects" className="cta-button">Explore My Projects ↓</a>
       </header>
 
